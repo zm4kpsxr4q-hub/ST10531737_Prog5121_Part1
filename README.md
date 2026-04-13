@@ -9,7 +9,7 @@ Institution: Rosebank college
 Description about Project:
 The chatapp is a Java-based application which is designed to handle a users login and registration.
 The project focuses on making sure that the user only inserts valid information, that meets a specific conditions.
-This project "chatapp" is part of my Part 1 for my programming Poe.
+This project "chatapp" is part of my Part 1 for my Programming Formative.
 
 Features of the Project:
 It has a "Username Validation:" which ensures the user only inserts a Username which contains an underscore (_) and is not longer than five characters.

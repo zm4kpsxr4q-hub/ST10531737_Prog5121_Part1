@@ -3,7 +3,7 @@ Repository part1
 Student Information:
 Hlumelo Dwenga
 Student number: ST10531737
-Project: chatapp (Prog)
+Project: Chatapp (Prog)
 Institution: Rosebank college
 
 Description about Project:
